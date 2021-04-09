@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+#MACOS
+.DS_Store
+outputs
