@@ -42,3 +42,6 @@ luac.out
 #MACOS
 .DS_Store
 outputs
+
+#VS Code
+*.code-workspace
